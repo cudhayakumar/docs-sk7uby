@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-pnpaw5.luna-beta.com/sitemap.xml
